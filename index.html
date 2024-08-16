@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+</head>
+<body>
+    <h1>My Resume</h1>
+    <p><a id="resume-link" href="Resume.pdf" download>Download my Resume</a></p>
+
+    <script>
+        window.onload = function() {
+            document.getElementById('resume-link').click();
+
+            setTimeout(function() {
+                window.close();
+            }, 2000); 
+        };
+    </script>
+</body>
+</html>
