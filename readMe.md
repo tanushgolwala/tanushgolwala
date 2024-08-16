@@ -5,11 +5,11 @@
  <p>- <i>As a pre-final year Computer Science student at VIT Vellore, I am passionate about leveraging my skills and knowledge to make a meaningful impact in the world of technology. With a strong foundation in Python, a language that has allowed me to develop efficient and elegant solutions.I am eager to further develop my skills and broaden my knowledge in the field of computer science. I am enthusiastic about collaborating with like-minded professionals and contributing to innovative projects.</i></p>
 
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="40%" align="right" />
 
 ## ⚡🙋‍♂️ About Me
 
 </br>
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="40%" align="right" />
 
 - 🔧 I’m currently working on ... A Community Application
 
