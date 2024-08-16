@@ -16,7 +16,7 @@
 - 💡 I’m curious about Android Applications and Backend Development
 - 📖 I’m currently learning Kubernetes.
 - ❄️ I’m looking to collaborate on Machine Learning Projects.
-- 📫 How to reach me ... tanushgolwala@gmail.com.
+- 📫 You can reach me at tanushgolwala@gmail.com
 
 <hr>
 
