@@ -112,8 +112,10 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{tanushgolwala}/count.svg" /></p> 
 <br>
 </div>
- 
 
+ <br/>
+[![An image of @tanush077's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanush077)](https://holopin.io/@tanush077)
+<br/>
 
 ## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me
 
