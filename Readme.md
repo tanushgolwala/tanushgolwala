@@ -94,8 +94,6 @@
 
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=tanushgolwala&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
- </br>
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanushgolwala"/>
  </br>
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanushgolwala&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
