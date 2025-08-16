@@ -94,10 +94,10 @@
 
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanushgolwala"/>
- </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanushgolwala&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanushgolwala&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanushgolwala&theme=dark&hide_border=false" height="150"/>
 </p>
+
      
   </td>
  </tr>
