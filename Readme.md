@@ -104,13 +104,6 @@
 </table>
 
 
-<div align="center">
- <b style = {font-weight: 600}>Visitors Count</b>
-
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{tanushgolwala}/count.svg" /></p> 
-<br>
-</div>
-
  <br/>
 
 ## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me
