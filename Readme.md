@@ -35,7 +35,6 @@
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
@@ -81,18 +80,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 </td>
-    <td>
-  
-## 📄📜 Stats
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanushgolwala&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanushgolwala&theme=dark&hide_border=false" height="150"/>
-</p>
-
-     
-  </td>
  </tr>
 </table>
 
