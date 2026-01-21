@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Tanush;App+developer...;Backend+Developer...;Computer+Vision+Enthusiast...;DevOps..."/>
  
- <p>- <i>As a pre-final year Computer Science student at VIT Vellore, I am passionate about leveraging my skills and knowledge to make a meaningful impact in the world of technology. With a strong foundation in Python, a language that has allowed me to develop efficient and elegant solutions.I am eager to further develop my skills and broaden my knowledge in the field of computer science. I am enthusiastic about collaborating with like-minded professionals and contributing to innovative projects.</i></p>
+ <p><i>As a final year Computer Science student at VIT Vellore, I am passionate about leveraging my skills and knowledge to make a meaningful impact in the world of technology. With a strong foundation in Python, a language that has allowed me to develop efficient and elegant solutions.I am eager to further develop my skills and broaden my knowledge in the field of computer science. I am enthusiastic about collaborating with like-minded professionals and contributing to innovative projects.</i></p>
 
 
 
