@@ -92,7 +92,6 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/tanushgolwala/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
 <a href="mailto:tanushgolwala@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
-<a href="https://tanushgolwala.github.io/tanushgolwala/resume" target="_blank"><img width="105px" alt="Resume" src="https://img.shields.io/badge/Resume-%2312100E.svg?&style=flat&logo=resume&logoColor=white"/></a>
 
 </br>
 </br>
