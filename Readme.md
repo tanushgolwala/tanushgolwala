@@ -96,7 +96,4 @@
 </br>
 </br>
 
-[![An image of @tanush077's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanush077)](https://holopin.io/@tanush077)
-
-
 
