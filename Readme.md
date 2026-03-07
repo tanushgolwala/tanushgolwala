@@ -13,7 +13,7 @@
   <a href="mailto:tanushgolwala@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212897592-4f4dd5a4-2f4f-4f78-9d9a-2de8d76f9ec4.gif" alt="coding gif" />
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
 ---
 
