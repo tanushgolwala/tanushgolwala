@@ -1,18 +1,23 @@
 <h1 align="center">Tanush Golwala</h1>
-<p align="center"><strong>Mobile Systems • Backend Infrastructure • Applied ML</strong></p>
+<p align="center"><strong>Computer Science • Mobile Development • Backend Engineering</strong></p>
 
 <p align="center">
   <a href="https://github.com/Tanush-g"><img src="https://komarev.com/ghpvc/?username=Tanush-g&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /></a>
-  <a href="https://www.linkedin.com/in/tanushgolwala/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/tanushgolwala/"><img src="https://img.shields.io/badge/LinkedIn-tanushgolwala-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:tanushgolwala@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ```txt
-Building production-grade apps and services with a focus on:
+Building production-grade software with a focus on:
 - scalable APIs
 - reliable mobile experiences
 - efficient ML-backed features
 ```
+
+## Profile Summary
+- B.Tech Computer Science student at VIT Vellore
+- App and backend developer focused on shipping production-ready systems
+- Interested in system design, cloud-native infra, and ML-integrated products
 
 ## Engineering Focus
 - Architecting end-to-end community platform workflows
@@ -50,3 +55,6 @@ Building production-grade apps and services with a focus on:
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tanush-g&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanush-g&layout=compact&hide_border=true" alt="Top languages" />
 </p>
+
+## LinkedIn
+<a href="https://www.linkedin.com/in/tanushgolwala/">linkedin.com/in/tanushgolwala</a>
