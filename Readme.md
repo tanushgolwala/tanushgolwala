@@ -1,5 +1,11 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0f2027,50:203a43,100:2c5364&section=header" alt="header" />
+
 <h1 align="center">Tanush Golwala</h1>
 <p align="center"><strong>Backend Engineer at Couchbase • Golang Enthusiast</strong></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&lines=Distributed+Systems;Scalable+APIs;Cloud-Native+Engineering" alt="Typing intro" />
+</p>
 
 <p align="center">
   <a href="https://github.com/Tanush-g"><img src="https://komarev.com/ghpvc/?username=Tanush-g&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /></a>
@@ -7,22 +13,16 @@
   <a href="mailto:tanushgolwala@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-```txt
-Building production-grade software with a focus on:
-- scalable APIs
-- distributed backend systems
-- cloud-native infrastructure
-```
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212897592-4f4dd5a4-2f4f-4f78-9d9a-2de8d76f9ec4.gif" alt="coding gif" />
 
-## Profile Summary
-- Backend Engineer at Couchbase
-- Golang enthusiast focused on high-performance systems
-- Interested in distributed systems, system design, and cloud-native architecture
+---
 
 ## Engineering Focus
-- Architecting end-to-end community platform workflows
+- Architecting end-to-end community platforms
 - Deploying containerized services with Kubernetes and Docker
 - Working across app clients, APIs, data, and DevOps pipelines
+
+---
 
 ## Technical Stack
 **Languages**
@@ -50,5 +50,9 @@ Building production-grade software with a focus on:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+---
+
 ## LinkedIn
 <a href="https://www.linkedin.com/in/tanushgolwala/">linkedin.com/in/tanushgolwala</a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0f2027,50:203a43,100:2c5364&section=footer" alt="footer" />
