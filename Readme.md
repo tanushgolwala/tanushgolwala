@@ -24,6 +24,14 @@
 
 ---
 
+```txt
+backend.engineer@couchbase
+focus: golang | distributed systems | cloud-native infra
+status: building reliable, high-throughput services
+```
+
+---
+
 ## Technical Stack
 **Languages**
 
