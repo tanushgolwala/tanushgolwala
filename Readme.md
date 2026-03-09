@@ -58,9 +58,5 @@ status: building reliable, high-throughput services
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
-
-## LinkedIn
-<a href="https://www.linkedin.com/in/tanushgolwala/">linkedin.com/in/tanushgolwala</a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0f2027,50:203a43,100:2c5364&section=footer" alt="footer" />
